@@ -106,7 +106,7 @@ export const IndexScreen = () => {
                                     <img className='center-text' src={"./assets/images/svg/projects.png"} width="40%" style={{ textAlign: 'center !important' }} height="auto" alt=""></img>
                                 </a>
                                 <div className="card-body">
-                                    <a href="/equipo-alquiler">
+                                    <a href="/proyectos">
                                         <button type="button" className="btn btn-outline-success camping-letters">
                                             PROYECTOS DE LA FUNDACIÓN
                                         </button>
